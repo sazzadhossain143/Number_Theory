@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+//https://www.codechef.com/problems/CNTPRIME
                             // n tomo prime number
 bool prime[100000000];
 long long int n=100000000;
